@@ -1,4 +1,4 @@
-# vue-vuex-jwt-authentication-example
+# jwt-authentication-vue-vuex-authentication
 
 Vue + Vuex - JWT Authentication Tutorial & Example
 
